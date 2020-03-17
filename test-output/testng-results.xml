@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="6" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59471" started-at="2020-03-11T11:56:57Z" finished-at="2020-03-11T11:57:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59471" started-at="2020-03-11T11:56:57Z" finished-at="2020-03-11T11:57:56Z">
+      <class name="com.test.LoginTest">
+        <test-method status="PASS" signature="setUpSuite()[pri:0, instance:com.test.LoginTest@4667ae56]" name="setUpSuite" is-config="true" duration-ms="335" started-at="2020-03-11T11:56:56Z" finished-at="2020-03-11T11:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method status="PASS" signature="getClassName()[pri:0, instance:com.test.LoginTest@4667ae56]" name="getClassName" is-config="true" duration-ms="4" started-at="2020-03-11T11:56:57Z" finished-at="2020-03-11T11:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getClassName -->
+        <test-method status="PASS" signature="intialization(java.lang.reflect.Method)[pri:0, instance:com.test.LoginTest@4667ae56]" name="intialization" is-config="true" duration-ms="9474" started-at="2020-03-11T11:56:58Z" finished-at="2020-03-11T11:57:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.LoginTest.AddVariants(java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method status="PASS" signature="AddVariants(java.lang.String, java.lang.String)[pri:0, instance:com.test.LoginTest@4667ae56]" name="AddVariants" duration-ms="12" started-at="2020-03-11T11:57:07Z" data-provider="ReadVariant" finished-at="2020-03-11T11:57:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[daawxw]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[53165310]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddVariants -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.LoginTest@4667ae56]" name="closeBrowser" is-config="true" duration-ms="1547" started-at="2020-03-11T11:57:07Z" finished-at="2020-03-11T11:57:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="intialization(java.lang.reflect.Method)[pri:0, instance:com.test.LoginTest@4667ae56]" name="intialization" is-config="true" duration-ms="7533" started-at="2020-03-11T11:57:09Z" finished-at="2020-03-11T11:57:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.LoginTest.AddVariants(java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method status="PASS" signature="AddVariants(java.lang.String, java.lang.String)[pri:0, instance:com.test.LoginTest@4667ae56]" name="AddVariants" duration-ms="0" started-at="2020-03-11T11:57:17Z" data-provider="ReadVariant" finished-at="2020-03-11T11:57:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ececzdxsd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3542123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddVariants -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.LoginTest@4667ae56]" name="closeBrowser" is-config="true" duration-ms="909" started-at="2020-03-11T11:57:17Z" finished-at="2020-03-11T11:57:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="intialization(java.lang.reflect.Method)[pri:0, instance:com.test.LoginTest@4667ae56]" name="intialization" is-config="true" duration-ms="7326" started-at="2020-03-11T11:57:17Z" finished-at="2020-03-11T11:57:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.LoginTest.AddVariants(java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method status="PASS" signature="AddVariants(java.lang.String, java.lang.String)[pri:0, instance:com.test.LoginTest@4667ae56]" name="AddVariants" duration-ms="0" started-at="2020-03-11T11:57:25Z" data-provider="ReadVariant" finished-at="2020-03-11T11:57:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[wsaccdw]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3841654]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddVariants -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.LoginTest@4667ae56]" name="closeBrowser" is-config="true" duration-ms="969" started-at="2020-03-11T11:57:25Z" finished-at="2020-03-11T11:57:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="intialization(java.lang.reflect.Method)[pri:0, instance:com.test.LoginTest@4667ae56]" name="intialization" is-config="true" duration-ms="8879" started-at="2020-03-11T11:57:26Z" finished-at="2020-03-11T11:57:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.LoginTest.AddVariants(java.lang.String,java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method status="PASS" signature="AddVariants(java.lang.String, java.lang.String)[pri:0, instance:com.test.LoginTest@4667ae56]" name="AddVariants" duration-ms="4" started-at="2020-03-11T11:57:35Z" data-provider="ReadVariant" finished-at="2020-03-11T11:57:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kiran@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddVariants -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.LoginTest@4667ae56]" name="closeBrowser" is-config="true" duration-ms="880" started-at="2020-03-11T11:57:35Z" finished-at="2020-03-11T11:57:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="intialization(java.lang.reflect.Method)[pri:0, instance:com.test.LoginTest@4667ae56]" name="intialization" is-config="true" duration-ms="9622" started-at="2020-03-11T11:57:36Z" finished-at="2020-03-11T11:57:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.LoginTest.checkErrorMessageForEmail() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method status="PASS" signature="checkErrorMessageForEmail()[pri:1, instance:com.test.LoginTest@4667ae56]" name="checkErrorMessageForEmail" duration-ms="655" started-at="2020-03-11T11:57:45Z" finished-at="2020-03-11T11:57:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkErrorMessageForEmail -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.LoginTest@4667ae56]" name="closeBrowser" is-config="true" duration-ms="959" started-at="2020-03-11T11:57:46Z" finished-at="2020-03-11T11:57:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="intialization(java.lang.reflect.Method)[pri:0, instance:com.test.LoginTest@4667ae56]" name="intialization" is-config="true" duration-ms="7652" started-at="2020-03-11T11:57:47Z" finished-at="2020-03-11T11:57:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.LoginTest.checkErrorMessageForPassword() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialization -->
+        <test-method status="FAIL" signature="checkErrorMessageForPassword()[pri:2, instance:com.test.LoginTest@4667ae56]" name="checkErrorMessageForPassword" duration-ms="940" started-at="2020-03-11T11:57:54Z" finished-at="2020-03-11T11:57:55Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+expected [Please enters password 123456] but found [Please enter password 123456]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+expected [Please enters password 123456] but found [Please enter password 123456]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:43)
+at com.Util.Utility.assertAll(Utility.java:79)
+at com.test.LoginTest.checkErrorMessageForPassword(LoginTest.java:62)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkErrorMessageForPassword -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.LoginTest@4667ae56]" name="closeBrowser" is-config="true" duration-ms="916" started-at="2020-03-11T11:57:55Z" finished-at="2020-03-11T11:57:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
